@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-Explain the purpose of this election audit analysis.
+The purpose of this project is to assist Tom at the Board of Electors in determining the winner of a US congressional precinct in Colarado. We were tasked with determining the total votes, votes for each candidate, percentage of votes for each candidate, the winner (based on simple majority), voter turnout for each county, percentage of vote from each county, and the county with the highest turnout. 
 
 ## Election-Audit Results
 
