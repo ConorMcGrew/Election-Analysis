@@ -6,17 +6,27 @@ The purpose of this project is to assist Tom at the Board of Electors in determi
 
 ## Election-Audit Results
 
-Use images or examples of your code as support where necessary.
+The overall results of this election audit were:
 
-* How many votes were cast in this congressional election?
+<img width="322" alt="Screen Shot 2021-04-04 at 8 00 32 PM" src="https://user-images.githubusercontent.com/80495710/113525005-6eab3a80-9580-11eb-9396-ac34d9256cf4.png">
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* In total, there were 369,711 votes cast. 
 
-* Which county had the largest number of votes?
+* In terms of county votes cast:
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  * Arapahoe county cast 6.7% (24,855) of the total votes. 
 
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  * Jefferson county cast 10.5% (38,855) of the total votes.
+  
+  * Denver county cast 82.5% (306,055) of the total votes, making it the county with the largest voter turnout.
+
+* In terms of candidate votes received:
+  
+  * Charles Casper Stockham received 23.0% (85,213) of the total votes.
+
+  * Raymon Anthony Doane received 3.1% (11,606) of the total votes. 
+
+  * Diana DeGette received 73.8% (272,892) of the total votes, making her the winner of the Congressional seat. 
 
 ## Election-Audit Summary
 
